@@ -1,6 +1,7 @@
 ## 🏠 AI Real Estate Agent - Powered by Firecrawl's Extract Endpoint
 
-![image](https://github.com/user-attachments/assets/8a557360-1716-4880-9923-2bc0075032c4)
+![image](https://github.com/user-attachments/assets/1c976e2a-9052-4d9f-a39c-3766d1a87092)
+
 
 
 
